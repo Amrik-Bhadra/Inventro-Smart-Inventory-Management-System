@@ -1,3 +1,5 @@
-# Saarthi_Major_Project
+# Inventro - Hospital Inventory Management System
+
+
 
 
